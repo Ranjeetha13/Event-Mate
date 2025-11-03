@@ -26,7 +26,7 @@ Event-Mate is a smart event management platform designed to simplify the process
 ---
 
 ## 🚀 Live Demo  
-🔗 [View Event-Mate UI](https://Ranjeetha13.github.io/Event-Mate/)
+🔗 [View Event-Mate UI](https://ranjeetha13.github.io/Event-Mate/)
 
 
 ## Prerequisites
